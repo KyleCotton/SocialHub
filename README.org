@@ -1,0 +1,12 @@
+* SocialHub
+A set of basic scripts to make posting to CompSoc's various social media platforms easier.
+
+Currently includes:
+- Facebook
+- Twitter
+- Reddit
+
+The current posts you can make are:
+- Text Posts
+- Image Posts
+- Link Posts
